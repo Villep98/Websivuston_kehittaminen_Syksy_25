@@ -5,7 +5,14 @@
     </head>
     <body>
         <h1>Moi oon Ville</h1>
-        <p>Olen reipas</p>
-        <img src="path/to/image.jpg" alt="Description of image">
+        <p>Minulla on söpö kissa</p>
+        <img src="kuva1.jpg" alt="Tässä olen minä">
     </body>
     </html>
+
+<h2>Harrastukseni</h2>
+    <ol>
+        <li>Videopelit</li>
+        <li>Kuntosali</li>
+        <li>Urheilu</li>
+    </ol>
