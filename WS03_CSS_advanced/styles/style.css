@@ -96,10 +96,9 @@ div {
       .filter-image:hover {
         filter: grayscale(0%);
       }
-.quote {
+      .quote {
         position: relative;
         padding-left: 30px;
-        padding-right: 30px;
         font-style: italic;
       }
       
@@ -110,12 +109,13 @@ div {
         left: 0;
         top: 0;
         color: rgb(0, 0, 0);
-        }
-        .quote::after {
-    content: '”';
-    font-size: 30px;
-    position: absolute;
-    right: 0;
-    top: -5px;
-    color: rgb(0, 0, 0);
-}
+      }
+      .quote :after {
+        content: '”';
+        font-size: 40px;
+        position: absolute;
+        right: 10px;
+        bottom: -10px;
+        color: rgb(0, 0, 0);
+      }
+
