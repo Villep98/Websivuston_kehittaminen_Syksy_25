@@ -125,7 +125,7 @@ div {
   }
   
   .box {
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
   }
@@ -136,7 +136,7 @@ div {
   }
   
   .grid-item {
-    background-color: lightgreen;
+    background-color: rgb(255, 221, 0);
     padding: 20px;
     text-align: center;
   }
